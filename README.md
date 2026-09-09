@@ -10,8 +10,6 @@ I'm currently focused on strengthening my **Data Structures & Algorithms** skill
 
 * 🔭 Currently working on **Data Structures & Algorithms**
 * 🌱 Currently learning **BFS, DFS, Graphs & Dynamic Programming**
-* 💻 Primary language: **C++**
-* 🧩 Practicing problems on **LeetCode**
 * 🎯 Goal: Become a strong **Software Developer**
 * 📚 Always learning and improving
 
@@ -20,6 +18,12 @@ I'm currently focused on strengthening my **Data Structures & Algorithms** skill
 ## 🛠️ Tech Stack
 
 ### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,c,cpp,mongodb" />
+</p>
+
+---
+
 
 ### Currently Learning
 
@@ -60,17 +64,6 @@ My focus is not just on solving problems, but understanding:
 
 ---
 
-## 📌 Featured Practice
-
-### 🔥 LeetCode
-
-I regularly practice LeetCode problems to improve:
-
-* Problem-solving
-* Algorithmic thinking
-* Time & space complexity
-* Coding consistency
-
 Some concepts I'm currently practicing:
 
 * 🌊 BFS
@@ -80,9 +73,6 @@ Some concepts I'm currently practicing:
 * 📦 Queue & Stack
 * ⚡ Optimization
 
----
-
-## 📊 GitHub Stats
 
 ---
 
@@ -98,96 +88,6 @@ Some concepts I'm currently practicing:
 
 ---
 
-## 📫 Connect With Me
-
-* 💼 LinkedIn: [# Hi, I'm [Your Name] 👋
-
-### 🚀 Aspiring Software Developer | DSA Enthusiast | C++ Programmer
-
-I'm currently focused on strengthening my **Data Structures & Algorithms** skills and building a strong foundation in software development.
-
-I enjoy solving problems, understanding how algorithms work, and continuously improving my coding skills.
-
----
-
-## 🧑‍💻 About Me
-
-* 🔭 Currently working on **Data Structures & Algorithms**
-* 🌱 Currently learning **BFS, DFS, Graphs & Dynamic Programming**
-* 💻 Primary language: **C++**
-* 🧩 Practicing problems on **LeetCode**
-* 🎯 Goal: Become a strong **Software Developer**
-* 📚 Always learning and improving
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
-</p>
-
-### Currently Learning
-
-* Data Structures & Algorithms
-* Graph Algorithms
-* BFS & DFS
-* Dynamic Programming
-* Problem Solving
-
----
-
-## 🧠 DSA Journey
-
-I'm currently practicing important algorithmic patterns:
-
-```text
-Arrays
-  ↓
-Strings
-  ↓
-Linked Lists
-  ↓
-Stacks & Queues
-  ↓
-Trees
-  ↓
-Graphs
-  ├── BFS
-  ├── DFS
-  └── Shortest Path
-  ↓
-Dynamic Programming
-```
-
-My focus is not just on solving problems, but understanding:
-
-> **Why does this algorithm work?**
-
----
-
-## 📌 Featured Practice
-
-### 🔥 LeetCode
-
-I regularly practice LeetCode problems to improve:
-
-* Problem-solving
-* Algorithmic thinking
-* Time & space complexity
-* Coding consistency
-
-Some concepts I'm currently practicing:
-
-* 🌊 BFS
-* 🔍 DFS
-* 🗺️ Graph Traversal
-* 🔄 Recursion
-* 📦 Queue & Stack
-* ⚡ Optimization
-
----
 
 ## 🎯 2026 Goals
 
