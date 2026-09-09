@@ -88,19 +88,6 @@ Some concepts I'm currently practicing:
 
 ---
 
-
-## 🎯 2026 Goals
-
-* [ ] Build strong DSA fundamentals
-* [ ] Solve 300+ LeetCode problems
-* [ ] Master Graph algorithms
-* [ ] Learn Dynamic Programming
-* [ ] Build real-world projects
-* [ ] Contribute to Open Source
-* [ ] Prepare for Software Engineering interviews
-
----
-
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: [www.linkedin.com/in/harsh-maurya-741711235]
